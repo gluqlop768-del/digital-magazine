@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605082242593BTEZ5</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508224259Y4ENYJ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>English in Europe: Designing an English Magazine to Promote Linguistic Diversity</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>2nd ESO English Project about linguistic diversity in Europe</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Guadalupe Luque López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado de 2 eso trabajará de forma cooperativa en la elaboración de una Revista digital informativa en inglés que refleje el papel del inglés en Europa y la importancia de la diversidad lingüística.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778272832502</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778260251328-m30a4zj2o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. HOME</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260251328-m30a4zj2o</odePageId>
+      <odeBlockId>block-1778260800528-ksqtjt8hd</odeBlockId>
+      <blockName>English in Europe: Designing an English Magazine to Promote Linguistic Diversity”.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260251328-m30a4zj2o</odePageId>
+          <odeBlockId>block-1778260800528-ksqtjt8hd</odeBlockId>
+          <odeIdeviceId>idevice-1778260800517-yccksx41o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Welcome to our project!</p>
+<p>In this project, we are going to explore linguistic diversity in Europe and the role of English as a lingua franca in different areas such as education, tourism, culture and digital communication.</p>
+<p>During the project, you will work in groups to create an informative digital magazine in English. To do this, you will search for reliable information, select relevant content, use digital tools and present your work orally to the rest of the class.</p>
+<p>The main aim is to learn English in a practical, cooperative and meaningful way, while developing your digital competence and your respect for linguistic and cultural diversity.<img src="{{context_path}}/content/resources/PORTAD~1.JPG" width="1366" height="779" alt="" />Image created by Guadalupe Luque </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778260800517-yccksx41o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Welcome to our project!</p>\n<p>In this project, we are going to explore linguistic diversity in Europe and the role of English as a lingua franca in different areas such as education, tourism, culture and digital communication.</p>\n<p>During the project, you will work in groups to create an informative digital magazine in English. To do this, you will search for reliable information, select relevant content, use digital tools and present your work orally to the rest of the class.</p>\n<p>The main aim is to learn English in a practical, cooperative and meaningful way, while developing your digital competence and your respect for linguistic and cultural diversity.<img src=\"{{context_path}}/content/resources/PORTAD~1.JPG\" width=\"1366\" height=\"779\" alt=\"\" />Image created by Guadalupe Luque </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260346164-ii4833car</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. PROJECT PRESENTATION</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROJECT PRESENTATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. PROJECT PRESENTATION</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260346164-ii4833car</odePageId>
+      <odeBlockId>block-1778261225076-254qysagx</odeBlockId>
+      <blockName>Digital Magazine</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260346164-ii4833car</odePageId>
+          <odeBlockId>block-1778261225076-254qysagx</odeBlockId>
+          <odeIdeviceId>idevice-1778261225070-e16sl1a7i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>This learning situation is designed for 2nd year of Compulsory Secondary Education in the subject of English as a Foreign Language.</p>
+<p>The main topic of the project is linguistic diversity in Europe and the role of English as a lingua franca in different contexts. Students will research European countries, languages, the use of English, culture and international communication.</p>
+<p>The project will take approximately 12–14 lessons, organised into three main stages:</p>
+<p>Initial stage: project presentation, activation of prior knowledge and group organisation.<br />Development stage: information search, analysis, selection of content and writing in English.<br />Final stage: creation of the digital magazine, oral presentation and assessment.<br />The methodology is based on project-based learning, cooperative work, meaningful learning, the use of digital tools and formative assessment through rubrics.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261225070-e16sl1a7i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>This learning situation is designed for 2nd year of Compulsory Secondary Education in the subject of English as a Foreign Language.</p>\n<p>The main topic of the project is linguistic diversity in Europe and the role of English as a lingua franca in different contexts. Students will research European countries, languages, the use of English, culture and international communication.</p>\n<p>The project will take approximately 12–14 lessons, organised into three main stages:</p>\n<p>Initial stage: project presentation, activation of prior knowledge and group organisation.<br />Development stage: information search, analysis, selection of content and writing in English.<br />Final stage: creation of the digital magazine, oral presentation and assessment.<br />The methodology is based on project-based learning, cooperative work, meaningful learning, the use of digital tools and formative assessment through rubrics.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260381819-regx303lm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. FINAL CHALLENGE</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. FINAL CHALLENGE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. FINAL CHALLENGE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260381819-regx303lm</odePageId>
+      <odeBlockId>block-1778261348344-n6ucf4ee8</odeBlockId>
+      <blockName>Collaborative digital magazine in English</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260381819-regx303lm</odePageId>
+          <odeBlockId>block-1778261348344-n6ucf4ee8</odeBlockId>
+          <odeIdeviceId>idevice-1778261348330-6rxeodkg2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The final challenge is to create a collaborative digital magazine in English about linguistic diversity in Europe.</p>
+<p>Each group will create one section of the magazine. This section must include clear, visual and well-organised information about a European country, its languages, the use of English and some relevant cultural aspects.</p>
+<p>The magazine section must include:An attractive title.<br />Information about a European country.<br />Languages spoken in that country.<br />The role of English in that context.<br />Interesting facts or cultural curiosities.<br />Images, maps or icons with an appropriate licence.<br />Short texts written in English.<br />Credits for the sources used.<br />A final reflection on the importance of linguistic diversity.<br />The product will preferably be designed with Canva or another digital tool approved by the teacher.<img src="{{context_path}}/content/resources/English magazine.jpg" width="912" height="1600" alt="" />Image created b Guadalupe Luque</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261348330-6rxeodkg2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The final challenge is to create a collaborative digital magazine in English about linguistic diversity in Europe.</p>\n<p>Each group will create one section of the magazine. This section must include clear, visual and well-organised information about a European country, its languages, the use of English and some relevant cultural aspects.</p>\n<p>The magazine section must include:An attractive title.<br />Information about a European country.<br />Languages spoken in that country.<br />The role of English in that context.<br />Interesting facts or cultural curiosities.<br />Images, maps or icons with an appropriate licence.<br />Short texts written in English.<br />Credits for the sources used.<br />A final reflection on the importance of linguistic diversity.<br />The product will preferably be designed with Canva or another digital tool approved by the teacher.<img src=\"{{context_path}}/content/resources/English magazine.jpg\" width=\"912\" height=\"1600\" alt=\"\" />Image created b Guadalupe Luque</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260403391-itq5agw8p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. DATA PROTECTION AND DIGITAL RIGHTS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. DATA PROTECTION AND DIGITAL RIGHTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. DATA PROTECTION AND DIGITAL RIGHTS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260403391-itq5agw8p</odePageId>
+      <odeBlockId>block-1778261831366-6yqz5k7hs</odeBlockId>
+      <blockName>Digital safety</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260403391-itq5agw8p</odePageId>
+          <odeBlockId>block-1778261831366-6yqz5k7hs</odeBlockId>
+          <odeIdeviceId>idevice-1778261831362-9cihomnme</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>During this project, we will use the internet and digital tools. For this reason, we must protect our personal data and respect everyone’s digital rights.</p>
+<p><strong>Basic rules:</strong></p>
+<ul>
+<li>Do not publish your full name, address, telephone number, personal email or any private information.</li>
+<li>Use only your school account when working online.</li>
+<li>Do not share your passwords.</li>
+<li>Do not upload photos of yourself or your classmates without permission.</li>
+<li>Do not publish other people’s work as if it were your own.</li>
+<li>Use copyright-free images or images with Creative Commons licences.</li>
+<li>Always cite the sources of the information, images, videos or audio files you use.<br />Use respectful language in all digital spaces.</li>
+<li>Before publishing any content, check it with your group and with your teacher.</li>
+<li>Remember that everything you do online is part of your digital footprint.</li>
+</ul>
+<p>With this project, we will learn how to use technology in a safe, critical, responsible and respectful way.</p>
+<p><strong>Read the following infographic carefully before continuing with the project.</strong></p>
+<p><img src="{{context_path}}/content/resources/Tarea 2.3 Stay safe online.pdf" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/Tarea 2.3 Stay safe online_page-0001.jpg" width="1241" height="1755" alt="" />Author: Guadalupe Luque López. Licence: CC BY-NC-SA 4.0.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261831362-9cihomnme","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>During this project, we will use the internet and digital tools. For this reason, we must protect our personal data and respect everyone’s digital rights.</p>\n<p><strong>Basic rules:</strong></p>\n<ul>\n<li>Do not publish your full name, address, telephone number, personal email or any private information.</li>\n<li>Use only your school account when working online.</li>\n<li>Do not share your passwords.</li>\n<li>Do not upload photos of yourself or your classmates without permission.</li>\n<li>Do not publish other people’s work as if it were your own.</li>\n<li>Use copyright-free images or images with Creative Commons licences.</li>\n<li>Always cite the sources of the information, images, videos or audio files you use.<br />Use respectful language in all digital spaces.</li>\n<li>Before publishing any content, check it with your group and with your teacher.</li>\n<li>Remember that everything you do online is part of your digital footprint.</li>\n</ul>\n<p>With this project, we will learn how to use technology in a safe, critical, responsible and respectful way.</p>\n<p><strong>Read the following infographic carefully before continuing with the project.</strong></p>\n<p><img src=\"{{context_path}}/content/resources/Tarea 2.3 Stay safe online.pdf\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Tarea 2.3 Stay safe online_page-0001.jpg\" width=\"1241\" height=\"1755\" alt=\"\" />Author: Guadalupe Luque López. Licence: CC BY-NC-SA 4.0.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260442349-6dc8e3yqa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. RESOURCES AND CONTENT CURATION</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. RESOURCES AND CONTENT CURATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. RESOURCES AND CONTENT CURATION</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260442349-6dc8e3yqa</odePageId>
+      <odeBlockId>block-1778262978682-ieysuilhk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260442349-6dc8e3yqa</odePageId>
+          <odeBlockId>block-1778262978682-ieysuilhk</odeBlockId>
+          <odeIdeviceId>idevice-1778262978671-oc3dy58xw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Resources for Students</strong><br />In this space, you will find a selection of resources to help you complete the project: websites to research European languages, online dictionaries, tools to find copyright-free images, Canva tutorials and materials to improve your writing in English.</p>
+<p>Enlace a padlet: <a href="https://padlet.com/gluqlop768/digital-magazine-about-linguistic-diversity-in-europe-w1tjcv1vsifj8wtr">https://padlet.com/gluqlop768/digital-magazine-about-linguistic-diversity-in-europe-w1tjcv1vsifj8wtr</a></p>
+<p><strong>Resources for Teachers</strong><br />This collection is designed for teachers. It includes methodological resources, digital tools, project examples, materials about linguistic diversity, guidelines to work on digital competence and assessment resources.</p>
+<p>Enlace a Symbaloo: <a href="https://www.symbaloo.com/shared/AAAAAwN5ewQAA41_W3SWiw==">https://www.symbaloo.com/shared/AAAAAwN5ewQAA41_W3SWiw==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262978671-oc3dy58xw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Resources for Students</strong><br />In this space, you will find a selection of resources to help you complete the project: websites to research European languages, online dictionaries, tools to find copyright-free images, Canva tutorials and materials to improve your writing in English.</p>\n<p>Enlace a padlet: <a href=\"https://padlet.com/gluqlop768/digital-magazine-about-linguistic-diversity-in-europe-w1tjcv1vsifj8wtr\">https://padlet.com/gluqlop768/digital-magazine-about-linguistic-diversity-in-europe-w1tjcv1vsifj8wtr</a></p>\n<p><strong>Resources for Teachers</strong><br />This collection is designed for teachers. It includes methodological resources, digital tools, project examples, materials about linguistic diversity, guidelines to work on digital competence and assessment resources.</p>\n<p>Enlace a Symbaloo: <a href=\"https://www.symbaloo.com/shared/AAAAAwN5ewQAA41_W3SWiw==\">https://www.symbaloo.com/shared/AAAAAwN5ewQAA41_W3SWiw==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260466298-c9sxdsqmn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. TIMELINE</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. TIMELINE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. TIMELINE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260466298-c9sxdsqmn</odePageId>
+      <odeBlockId>block-1778264309062-1fcrvtfnk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260466298-c9sxdsqmn</odePageId>
+          <odeBlockId>block-1778264309062-1fcrvtfnk</odeBlockId>
+          <odeIdeviceId>idevice-1778264309053-rgx9ojgxb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>This <strong>timeline</strong> shows the main steps of the project. It will help students understand what they have to do in each lesson and how the final product will be created gradually.</p>
+<p><img src="{{context_path}}/content/resources/Timeline.jpg" width="1000" height="2000" alt="" /></p>
+<p>Timeline created by Guadalupe Luque . Licence: CC BY-NC-SA 4.0.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778264309053-rgx9ojgxb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>This <strong>timeline</strong> shows the main steps of the project. It will help students understand what they have to do in each lesson and how the final product will be created gradually.</p>\n<p><img src=\"{{context_path}}/content/resources/Timeline.jpg\" width=\"1000\" height=\"2000\" alt=\"\" /></p>\n<p>Timeline created by Guadalupe Luque . Licence: CC BY-NC-SA 4.0.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. ASSESSMENT</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. ASSESSMENT</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+      <odeBlockId>block-1778266469736-fyhqtbq36</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+          <odeBlockId>block-1778266469736-fyhqtbq36</odeBlockId>
+          <odeIdeviceId>idevice-1778266469728-a1044ayml</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Assessment</strong> in this project will be continuous, formative and varied. It will not only focus on the final digital magazine, but also on the whole learning process. The aim is to collect evidence of students’ progress, detect possible difficulties, offer personalised feedback and help students become more aware of their own learning. For this reason, different assessment tools will be used such as: <strong>a writing rubric and a self-assessment target diagram.</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778266469728-a1044ayml","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Assessment</strong> in this project will be continuous, formative and varied. It will not only focus on the final digital magazine, but also on the whole learning process. The aim is to collect evidence of students’ progress, detect possible difficulties, offer personalised feedback and help students become more aware of their own learning. For this reason, different assessment tools will be used such as: <strong>a writing rubric and a self-assessment target diagram.</strong></p>\n<p><strong></strong></p>\n<p><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+      <odeBlockId>block-1778267754487-7n4r84b7u</odeBlockId>
+      <blockName>Rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+          <odeBlockId>block-1778267754487-7n4r84b7u</odeBlockId>
+          <odeIdeviceId>idevice-1778267754472-ct2118zqm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Rubric_page-0001.jpg" width="613" height="867" alt="" /><br /></p>
+<p>Rubric created by Guadalupe Luque López for educational use Licence CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778267754472-ct2118zqm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Rubric_page-0001.jpg\" width=\"613\" height=\"867\" alt=\"\" /><br /></p>\n<p>Rubric created by Guadalupe Luque López for educational use Licence CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+      <odeBlockId>block-1778267794666-n08yyb9et</odeBlockId>
+      <blockName>Self-assessment target diagram.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260500700-cxlmwz1fc</odePageId>
+          <odeBlockId>block-1778267794666-n08yyb9et</odeBlockId>
+          <odeIdeviceId>idevice-1778267794663-0lnkhhh46</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Diana de autoevaluación_page-0001.jpg" width="620" height="877" alt="" /></p>
+<p>Sel-assessment target diagram created by Guadalupe Luque for educational use  Licence CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778267794663-0lnkhhh46","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diana de autoevaluación_page-0001.jpg\" width=\"620\" height=\"877\" alt=\"\" /></p>\n<p>Sel-assessment target diagram created by Guadalupe Luque for educational use  Licence CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. DIDACTIC GUIDE</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+      <odeBlockId>block-1778269479963-4csu6s9bn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+          <odeBlockId>block-1778269479963-4csu6s9bn</odeBlockId>
+          <odeIdeviceId>idevice-1778269479946-h5un48r0j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Didactic guide</strong></p>
+<p>This section includes the main didactic information of the project. </p>
+<p>Here you can find: </p>
+<ul>
+<li>the sequence of tasks</li>
+<li>the assessment criteria related to those tasks</li>
+<li>and some methodological notes. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778269479946-h5un48r0j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Didactic guide</strong></p>\n<p>This section includes the main didactic information of the project. </p>\n<p>Here you can find: </p>\n<ul>\n<li>the sequence of tasks</li>\n<li>the assessment criteria related to those tasks</li>\n<li>and some methodological notes. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+      <odeBlockId>block-1778269637284-yyfajhatp</odeBlockId>
+      <blockName>Tasks and assessmet criteria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+          <odeBlockId>block-1778269637284-yyfajhatp</odeBlockId>
+          <odeIdeviceId>idevice-1778269637275-s7m1wnfvu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Plantilla 6.1. Asociamos tareas a Criterios de evaluación_ (sin pregunta)_page-0001.jpg" width="1366" height="965" alt="" />This sequence has been designed taking into account previous reflections on teaching practice, the need to use realistic digital tools and the importance of planning the project in a flexible and coherent way. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778269637275-s7m1wnfvu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Plantilla 6.1. Asociamos tareas a Criterios de evaluación_ (sin pregunta)_page-0001.jpg\" width=\"1366\" height=\"965\" alt=\"\" />This sequence has been designed taking into account previous reflections on teaching practice, the need to use realistic digital tools and the importance of planning the project in a flexible and coherent way. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+      <odeBlockId>block-1778270351902-5gn0lfnsz</odeBlockId>
+      <blockName>Methodological notes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260509851-4x1cjfo0l</odePageId>
+          <odeBlockId>block-1778270351902-5gn0lfnsz</odeBlockId>
+          <odeIdeviceId>idevice-1778270351885-pz55zlhjw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The project is designed for 2nd ESO students in the subject of English.<br />The final product is a digital magazine in English about linguistic diversity in Europe.<br />The project combines whole class work, pair work and small group work.<br />The main digital tools used are Padlet, Liveworksheets, Google Classroom and Canva.<br />The activities are organised in a progressive way, from comprehension and vocabulary work to the creation of the final product. </p>
+<p></p>
+<p></p>
+<p>Didactic guide created by Guadalupe Luque López for educatoinal use Licence CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270351885-pz55zlhjw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The project is designed for 2nd ESO students in the subject of English.<br />The final product is a digital magazine in English about linguistic diversity in Europe.<br />The project combines whole class work, pair work and small group work.<br />The main digital tools used are Padlet, Liveworksheets, Google Classroom and Canva.<br />The activities are organised in a progressive way, from comprehension and vocabulary work to the creation of the final product. </p>\n<p></p>\n<p></p>\n<p>Didactic guide created by Guadalupe Luque López for educatoinal use Licence CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260524506-o1u452pgz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. DIVERSITY, INCLUSION AND UDL</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. DIVERSITY, INCLUSION AND UDL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. DIVERSITY, INCLUSION AND UDL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260524506-o1u452pgz</odePageId>
+      <odeBlockId>block-1778268972623-i6lnpfhp3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260524506-o1u452pgz</odePageId>
+          <odeBlockId>block-1778268972623-i6lnpfhp3</odeBlockId>
+          <odeIdeviceId>idevice-1778268972614-8qg65khhr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>iThe project has been designed according to the principles of <strong>Universal Design for Learning</strong>, with the aim of offering different ways to access information, participate and express learning.</p>
+<p><strong>Multiple means of representation</strong><br />Oral and written explanations.<br />Visual examples.<br />Work templates.<br />Vocabulary glossaries.<br />Sentence starters in English.<br />Previously selected digital resources.</p>
+<p><br /><strong>Multiple means of action and expression</strong><br />Students can provide information through texts, images, maps or oral presentations.<br />Use of accessible digital tools.<br />Cooperative work with defined roles.<br />Guided revision before the final submission.<br />Oral presentation supported by visual materials.</p>
+<p><br /><strong>Multiple means of engagement</strong><br />Choice of country or language, when possible.<br />Teamwork.<br />Creative and realistic final product.<br />Connection with cultural and linguistic diversity.<br />Self-assessment and final reflection.<br />Specific support measures<br />Templates with useful language structures.<br />Reduction of text length for students with difficulties.<br />Peer support.<br />Extra time if needed.<br />Possibility of recording the oral presentation beforehand.<br />Step-by-step revision of the work.</p>
+<p><br /></p>
+<p>This section has been created by Guadalupe Luque López for educational use Licence CC BY-NC-SA 4.0.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778268972614-8qg65khhr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>iThe project has been designed according to the principles of <strong>Universal Design for Learning</strong>, with the aim of offering different ways to access information, participate and express learning.</p>\n<p><strong>Multiple means of representation</strong><br />Oral and written explanations.<br />Visual examples.<br />Work templates.<br />Vocabulary glossaries.<br />Sentence starters in English.<br />Previously selected digital resources.</p>\n<p><br /><strong>Multiple means of action and expression</strong><br />Students can provide information through texts, images, maps or oral presentations.<br />Use of accessible digital tools.<br />Cooperative work with defined roles.<br />Guided revision before the final submission.<br />Oral presentation supported by visual materials.</p>\n<p><br /><strong>Multiple means of engagement</strong><br />Choice of country or language, when possible.<br />Teamwork.<br />Creative and realistic final product.<br />Connection with cultural and linguistic diversity.<br />Self-assessment and final reflection.<br />Specific support measures<br />Templates with useful language structures.<br />Reduction of text length for students with difficulties.<br />Peer support.<br />Extra time if needed.<br />Possibility of recording the oral presentation beforehand.<br />Step-by-step revision of the work.</p>\n<p><br /></p>\n<p>This section has been created by Guadalupe Luque López for educational use Licence CC BY-NC-SA 4.0.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778260541056-8851evhak</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10. CREDITS</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>10. CREDITS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778260541056-8851evhak</odePageId>
+      <odeBlockId>block-1778271361209-l7q82sigg</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260541056-8851evhak</odePageId>
+          <odeBlockId>block-1778271361209-l7q82sigg</odeBlockId>
+          <odeIdeviceId>idevice-1778271361199-1wugj01a7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título</strong><br />English in Europe: Designing an English Magazine to Promote Linguistic Diversity</p>
+<p><strong>Autora:</strong><br />Guadalupe Luque López</p>
+<p><strong>Nivel educativo</strong><br />2º ESO</p>
+<p><strong>Materia</strong><br />Lengua Extranjera: Inglés</p>
+<p><strong>Descripción</strong><br />Recurso educativo digital creado con eXeLearning para desarrollar una situación de aprendizaje basada en la creación de una revista digital en inglés sobre la diversidad lingüística en Europa y el papel del inglés como lengua franca.</p>
+<p><strong>Licencia</strong><br />Creative Commons 4.0 Internacional, CC BY-NC-SA 4.0.</p>
+<p><strong>Uso educativo</strong></p>
+<p>Este material ha sido creado con fines educativos y puede ser reutilizado y adaptado para usos no comerciales, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778271361199-1wugj01a7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título</strong><br />English in Europe: Designing an English Magazine to Promote Linguistic Diversity</p>\n<p><strong>Autora:</strong><br />Guadalupe Luque López</p>\n<p><strong>Nivel educativo</strong><br />2º ESO</p>\n<p><strong>Materia</strong><br />Lengua Extranjera: Inglés</p>\n<p><strong>Descripción</strong><br />Recurso educativo digital creado con eXeLearning para desarrollar una situación de aprendizaje basada en la creación de una revista digital en inglés sobre la diversidad lingüística en Europa y el papel del inglés como lengua franca.</p>\n<p><strong>Licencia</strong><br />Creative Commons 4.0 Internacional, CC BY-NC-SA 4.0.</p>\n<p><strong>Uso educativo</strong></p>\n<p>Este material ha sido creado con fines educativos y puede ser reutilizado y adaptado para usos no comerciales, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778260541056-8851evhak</odePageId>
+      <odeBlockId>block-1778271856835-38fj62wz6</odeBlockId>
+      <blockName>Créditos de imágenes y recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260541056-8851evhak</odePageId>
+          <odeBlockId>block-1778271856835-38fj62wz6</odeBlockId>
+          <odeIdeviceId>idevice-1778271856821-3tb73w5sh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Imagen de portada: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>
+<li>Infografía de seguridad digital: Guadalupe Luque. Licencia: CC BY-NC-SA 4.0.</li>
+<li>Línea temporal del proyecto: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>
+<li>Rúbrica  y diana de autoevaluación: creadas por la autora para uso educativo. Licencia: CC BY-NC-SA 4.0.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778271856821-3tb73w5sh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Imagen de portada: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>\n<li>Infografía de seguridad digital: Guadalupe Luque. Licencia: CC BY-NC-SA 4.0.</li>\n<li>Línea temporal del proyecto: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>\n<li>Rúbrica  y diana de autoevaluación: creadas por la autora para uso educativo. Licencia: CC BY-NC-SA 4.0.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778260541056-8851evhak</odePageId>
+      <odeBlockId>block-1778272211049-ztig29ed4</odeBlockId>
+      <blockName>Archivo editable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778260541056-8851evhak</odePageId>
+          <odeBlockId>block-1778272211049-ztig29ed4</odeBlockId>
+          <odeIdeviceId>idevice-1778272211043-zzvph8ew3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El archivo editable de eXelearning estará disponible para su descarga junto con la versión publicada de este recurso. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778272211043-zzvph8ew3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El archivo editable de eXelearning estará disponible para su descarga junto con la versión publicada de este recurso. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
